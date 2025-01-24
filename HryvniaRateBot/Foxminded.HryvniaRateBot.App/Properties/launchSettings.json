@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Foxminded.HryvniaRateBot.App": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Dev"
+      }
+    }
+  }
+}
